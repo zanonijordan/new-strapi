@@ -10,6 +10,7 @@
     "strapi": "strapi"
   },
   "dependencies": {
+    "cloudinary": "^1.34.0",
     "graphql": "^15.5.0",
     "mime-types": "^2.1.27",
     "saslprep": "^1.0.3",
